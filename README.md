@@ -4,7 +4,7 @@
 
 Dans la vidéo [Voyage relativiste](https://www.youtube.com/watch?v=1jKPtu5m3DQ), un aperçu de ce qu'on peut appeler la **dilatation du temps** était présenté. Dans cette vidéo, la représentation du **temps propre** le long de la **ligne d'univers** illustre bien ce phénomène.
 
-La notion de **compression des longueurs** est un peu plus compliquée à illustrer. Préalablement, on peut regarder la vidéo [Simultaneïté](https://www.youtube.com/watch?v=jib6EababqA) qui expose une façon simple de représenter des **évènements** dans l'espace-temps, grâce à des coordonnées $(x,t)$ réduites. Pour simplifier, on envisage toujours une position le long d'une droite, avec une distance $x$ et un temps $t$.
+La notion de **contraction des longueurs** est un peu plus compliquée à illustrer. Préalablement, on peut regarder la vidéo [Simultaneïté](https://www.youtube.com/watch?v=jib6EababqA) qui expose une façon simple de représenter des **évènements** dans l'espace-temps, grâce à des coordonnées $(x,t)$ réduites. Pour simplifier, on envisage toujours une position le long d'une droite, avec une distance $x$ et un temps $t$.
 
 ## Description
 
