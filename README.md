@@ -59,7 +59,8 @@ L'=3.0000
 ***Tracé***
 ```
 
-![cdl06](https://github.com/user-attachments/assets/a1a71319-f335-4000-87fa-1957158f7474)
+![cdl06](https://github.com/user-attachments/assets/2229188d-d16e-480c-8e99-229307e969ee)
+
 
 ```
 >>>import cdl
@@ -72,7 +73,8 @@ L'=4.0000
 ***Tracé***
 ```
 
-![cdl08](https://github.com/user-attachments/assets/675dc23b-0716-48b1-9e9c-13a41b7eea2f)
+![cdl08](https://github.com/user-attachments/assets/0e016cb2-12d7-42ce-8bce-6c013700b3d2)
+
 
 ```
 >>>import cdl
@@ -85,7 +87,8 @@ L'=2.1822
 ***Tracé***
 ```
 
-![cdl04](https://github.com/user-attachments/assets/496067ae-1d17-4d18-a417-f88d1ce3d41b)
+![cdl04](https://github.com/user-attachments/assets/129a5bb3-323d-470e-a46a-073ef3043d15)
+
 
 
 
