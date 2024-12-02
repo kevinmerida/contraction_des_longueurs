@@ -58,9 +58,7 @@ L'=3.0000
 
 ***Tracé***
 ```
-
 ![cdl06](https://github.com/user-attachments/assets/2229188d-d16e-480c-8e99-229307e969ee)
-
 
 ```
 >>>import cdl
@@ -72,9 +70,7 @@ L'=4.0000
 
 ***Tracé***
 ```
-
 ![cdl08](https://github.com/user-attachments/assets/0e016cb2-12d7-42ce-8bce-6c013700b3d2)
-
 
 ```
 >>>import cdl
@@ -86,9 +82,4 @@ L'=2.1822
 
 ***Tracé***
 ```
-
 ![cdl04](https://github.com/user-attachments/assets/129a5bb3-323d-470e-a46a-073ef3043d15)
-
-
-
-
