@@ -62,7 +62,7 @@ L'=3.0000
 
 ```
 >>>import cdl
->>>cdl.trace_lu(v=0.8,x=15,td=13,tf=16)
+>>>cdl.trace_lu(v=0.8,x=16,td=14,tf=17)
 
 ***Résultats***
 L =2.4000
@@ -70,7 +70,8 @@ L'=4.0000
 
 ***Tracé***
 ```
-![cdl08](https://github.com/user-attachments/assets/0e016cb2-12d7-42ce-8bce-6c013700b3d2)
+![cdl08](https://github.com/user-attachments/assets/817652d7-1a7c-453b-8b26-d603b52e02b9)
+
 
 ```
 >>>import cdl
