@@ -1,5 +1,9 @@
 # Contraction des longueurs
 
+## La vidéo
+
+https://www.youtube.com/watch?v=YxTZkAIus3M
+
 ## Introduction
 
 Dans la vidéo [Voyage relativiste](https://www.youtube.com/watch?v=1jKPtu5m3DQ), un aperçu de ce qu'on peut appeler la **dilatation du temps** était présenté. Dans cette vidéo, la représentation du **temps propre** le long de la **ligne d'univers** illustre bien ce phénomène.
